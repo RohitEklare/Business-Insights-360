@@ -1,5 +1,7 @@
 Business Insight 360 Dashboard
 
+Link : https://app.powerbi.com/view?r=eyJrIjoiMzBmZjU2YjctNzZlOS00OWY3LWIwM2MtZTUwZDEzNWM1OGNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9+
+
 Business Insight 360 is a comprehensive, interactive Power BI dashboard designed to transform raw business data into actionable insights. This project consolidates key performance indicators (KPIs) from multiple dimensions—including Finance, Sales, Marketing, Supply Chain, and Executive levels—into one unified view, empowering decision-makers to drive strategic improvements.
 Table of Contents
 - Overview
