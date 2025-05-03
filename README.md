@@ -55,7 +55,25 @@ Executive View
 
 - Purpose: To provide a high-level consolidated overview for top management.
 - Key Features: Aggregated insights from all views, including revenue trends, cost structure summaries, and strategic recommendations for overall business
-- 
+
+Technique Stacked
+
+⦁Power BI: Used for creating dynamic dashboards, visualizations, and interactive reports.
+
+⦁MySQL: Used as the database management system for storing and managing business data.
+
+⦁ETL Processes: Leveraged Python and SQL for extracting and transforming data from various sources.
+
+⦁DAX (Data Analysis Expressions): Used to create calculated columns and measures for advanced analytics.
+
+⦁Power BI Services: Utilized for report publishing, sharing, and automated data refresh.
+
+⦁Snowflake Schema: Adopted for efficient data organization and modeling.
+
+Conclusion
+
+This project has significantly enhanced my Power BI and data analytics skills, allowing me to build a comprehensive business intelligence solution for AtliQ. It showcases the power of Power BI to turn raw data into insightful, real-time visualizations that can guide business decisions across finance, sales, marketing,and operations.
+
 Contact.
 
 Rohit Ramesh Eklare
